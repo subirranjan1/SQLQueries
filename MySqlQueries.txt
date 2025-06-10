@@ -387,3 +387,5 @@ GROUP BY release_year
 HAVING AVG(duration) > 120;
 
 
+Select * from worldleaders;
+
